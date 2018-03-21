@@ -1,4 +1,4 @@
-# A simple implementation of blockchain
+# A simple implementation of blockchain 2018-03-21
 This project aims to create a simple implementation of blockchain concept and demostrate it in a user friendly way. 
 
 ## Design Concept
